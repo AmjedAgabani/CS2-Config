@@ -5,6 +5,7 @@
 ## How to install
 
 Put `\userdata` files in  C:\Program Files (x86)\Steam\userdata\#######\730\local\cfg
+
 Put `\configs` files in  C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\core\cfg
 
 ## Launch options
