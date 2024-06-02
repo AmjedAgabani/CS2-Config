@@ -7,6 +7,9 @@
 Put `\userdata` files in  C:\Program Files (x86)\Steam\userdata\#######\730\local\cfg
 Put `\configs` files in  C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\core\cfg
 
+## Launch options
+`+exec execauto.cfg` `-allow_third_party_software`
+
 ## How to use
 ### Key Commands
 |Key|Function   |
