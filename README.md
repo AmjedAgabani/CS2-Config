@@ -30,6 +30,7 @@ Put `\configs` files in  C:\Program Files (x86)\Steam\steamapps\common\Counter-S
 | F5 | iterate through preset crosshairs |
 | CAPS | old nade crosshair toggle |
 | ALT | show team equipment |
+------------
 
 ### pracc.cfg -> configured for servers with **[CS2-Practice-Plugin](https://github.com/CHR15cs/CS2-Practice-Plugin)**  by @CHR15cs installed
 
