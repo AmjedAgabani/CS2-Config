@@ -80,6 +80,6 @@ Launch by opening console whilst in locally hosted server and typing `exec prac`
 
 |Key|Function   |
 | ------------ | ------------ |
-| DEL | Kills active projectic |
+| DEL | Kills active grenades |
 | ALT | `noclip` (toggle noclip) |
 | n | `sv_rethrow_last_grenade` (throws last thrown grenade) |
