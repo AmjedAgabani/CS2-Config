@@ -12,7 +12,7 @@ Put `\configs` files in  C:\Program Files (x86)\Steam\steamapps\common\Counter-S
 `+exec execauto.cfg` `-allow_third_party_software`
 
 ## How to use
-### Key Commands
+### Default keybinds
 |Key|Function   |
 | ------------ | ------------ |
 | MOUSE4 | jump throw bind |
