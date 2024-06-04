@@ -18,7 +18,7 @@ Put `\configs` files in  C:\Program Files (x86)\Steam\steamapps\common\Counter-S
 | MOUSE4 | jump throw bind |
 | MOUSE5 | player ping |
 | SPACE | jump crouch |
-| MWHEELUP | jump |
+| MWHEELDOWN | jump |
 | c | smoke grenade |
 | t | molotov |
 | z | he grenade |
