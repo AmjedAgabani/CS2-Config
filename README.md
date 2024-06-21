@@ -1,7 +1,7 @@
 
 #  CS-GO-config
 
-*Last Updated 02/06/24*
+*Last Updated 21/06/24*
 ## How to install
 
 Put `\userdata` files in  C:\Program Files (x86)\Steam\userdata\#######\730\local\cfg
