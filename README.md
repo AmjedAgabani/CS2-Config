@@ -1,5 +1,5 @@
 
-#  CS-GO-config
+#  CS2-config
 
 *Last Updated 21/06/24*
 ## How to install
