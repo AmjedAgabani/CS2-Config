@@ -25,7 +25,7 @@ Put `\configs` files in  C:\Program Files (x86)\Steam\steamapps\common\Counter-S
 | MWHEELUP | flashbang |
 | HOME | toggle volume |
 | n | clutch mode toggle |
-| o | mute chat and voice toggle |
+| o | sell all items |
 | x | radar zoom toggle |
 | DEL | iterate through crosshair colour |
 | F5 | iterate through preset crosshairs |
@@ -51,9 +51,14 @@ Launch by opening console and typing `pracc` or `exec pracc.cfg`.
 | END| say ".crouchboost" (adds crouching bot to boost player)  |
 | PGDN | say ".noflash" (removes flashes) |
 | o| say ".bestspawn" (moves player to best spawn from current location) |
+| l| say "prac (starts prac mode) |
 | n | say ".throw" (throws last nade) |
 | / | say ".clear" (clears active molotovs and smokes) |
 | ALT | `noclip` (toggle noclip) |
+
+
+Return config to match-ready default config by typing `unload` or `exec unload.cfg` in console.
+
 ------------
 ### demoview.cfg
 
@@ -70,6 +75,9 @@ Launch by opening console and typing `demoview` or `exec demoview`.
 | INS | Toggle xray (press to toggle xray) // *Note: MUST TOGGLE OFF CASTER XRAY CONTROL* |
 | UPARROW | Foward 5 seconds (on 128 tick demo) |
 | DOWNARROW | Back 5 seconds (on 128 tick demo) |
+
+Return config to match-ready default config by typing `unload` or `exec unload.cfg` in console.
+
 ------------
 ### solopracc.cfg
 
@@ -83,3 +91,13 @@ Launch by opening console whilst in locally hosted server and typing `exec prac`
 | DEL | Kills active grenades |
 | ALT | `noclip` (toggle noclip) |
 | n | `sv_rethrow_last_grenade` (throws last thrown grenade) |
+
+Return config to match-ready default config by typing `unload` or `exec unload.cfg` in console.
+
+------------
+### Aliases
+
+|Key|Function   |
+| ------------ | ------------ |
+| dc | Disconnect from server |
+| srv | Connect to practice server |
